@@ -1,0 +1,86 @@
+.navbar{
+    background-color: transparent;   
+    
+}
+
+
+.navbar a{
+    text-decoration: none;
+    font-family: Tahoma;
+    color: white;
+    padding: 10px 10px;
+    float: right;
+    text-align: center;
+    font-size: 20px;
+}
+
+.teslalogo{
+    width: 50px;
+    height: auto;
+    padding: 10px;
+   
+}
+
+
+body{
+    background-color: black;
+}
+
+.modely{
+    width: 70%;
+    height: auto;
+   
+ }
+
+.Roadsterinfo{
+    border: 1px solid white;
+    width: 445px;
+    height: 90%;
+    background-color: white;
+    position: absolute;
+    top: 9.4%;
+    right: 0;
+    text-align: center;
+    font-family: Tahoma;
+
+}
+
+.speed{
+    display: inline;
+    font-family: Tahoma;
+    
+}
+
+.type1{
+    border: 1px solid gray;
+    width: 80%;
+    height: 45px;
+    background-color: white;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.type2{
+    border: 1px solid black;
+    width: 80%;
+    height: 45px;
+    background-color: rgb(220, 217, 217);
+    margin: auto;
+    border-radius: 5px;
+}
+
+.intype{
+    font-size: 10px;
+    display: inline;
+}
+
+
+.intype1{
+    margin-right: 260px;
+}
+
+
+
